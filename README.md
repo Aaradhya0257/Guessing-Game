@@ -1,4 +1,4 @@
-GUESSING GAME!!
+#GUESSING GAME!!
 Welcome to the Guessing Game! This is a simple interactive game where the player tries to guess a randomly selected number within a specified range. It's a great way to have fun while challenging your guessing skills.
 
 Table of Contents:
